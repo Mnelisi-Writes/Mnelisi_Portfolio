@@ -503,15 +503,25 @@ form input, form textarea {
 }
 @media (max-width: 768px) {
     .Home {
-        background-size: cover;
-        background-position: center;
+        background-size: 70%;
+        background-position: right;
     }
     .Home-text {
         padding: 20px;
     }
+    .Home-text h2 {
+        font-size: 10px;
+    }
+    .Home-text p {
+        font-size: 24px;
+    }
     .aboutMe-Content, .myPic {
         flex-basis: 100%;
         text-align: center;
+    }
+    .aboutMe-Content p{
+        font-size: 18px;
+        width: 250px;
     }
     .skill-section {
         width: 100%;
@@ -521,15 +531,16 @@ form input, form textarea {
         align-items: center;
     }
     .project {
-        width: 100%;
+        width: 300px;
+        right: 26%;
     }
 }
 @media (max-width: 480px) {
     .Home-text h2 {
-        font-size: 40px;
+        font-size: 20px;
     }
     .Home-text p {
-        font-size: 24px;
+        font-size: 15px;
     }
     .skills-titles p, .skills-links {
         font-size: 20px;
