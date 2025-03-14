@@ -513,10 +513,10 @@ form input, form textarea {
         padding: 20px;
     }
     .Home-text h2 {
-        font-size: 10px;
+        font-size: 15px;
     }
     .Home-text p {
-        font-size: 24px;
+        font-size: 15px;
     }
     .aboutMe-Content, .myPic {
         flex-basis: 100%;
