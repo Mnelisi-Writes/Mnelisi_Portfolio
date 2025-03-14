@@ -31,15 +31,6 @@ var typed = new Typed(".text",{
 
 
 function messageSub(){
-    let Name=document.getElementById("Name");
-    let email=document.getElementById("email");
-    let message=document.getElementById("message");
 
-    if(Name ==='',email==='',message===''){
-        alert("Fill in every field before submitting!");
-
-    }
-    else{
-        alert("Sent!");
-}
+    alert("Sent!");
 }
