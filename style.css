@@ -384,7 +384,7 @@ nav ul li a:hover {
     height: 100%;
 }
 .layer {
-    width: 100%;
+    width: 90%;
     height: 0;
     background: linear-gradient(rgba(0, 0, 0, 0.6), aqua);
     border-radius: 10px;
