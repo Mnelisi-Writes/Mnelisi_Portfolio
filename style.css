@@ -78,7 +78,7 @@ nav ul li a:hover {
     height: 100vh;
     background-image: url(mnelisi-home.png);
     background-repeat: no-repeat;
-    background-size: auto 500px;
+    background-size: auto 70%;
     background-position: 70% center;
     align-items: center;
 }
@@ -547,8 +547,23 @@ form input, form textarea {
     font-size: 1.5rem;
     color: aqua;
     padding-bottom: .5rem;
+    }
+    .layer h3 {
+        font-size: 14px;
+    }
+    
+    .layer p {
+        font-size: 12px;
+        position: center;
+    }
+    .layer a {
+        font-size: 10px;
+        width: 19px;
+        height: 19px;
+        line-height: 15px;
+    }
 }
-}
+
 @media (max-width: 480px) {
     .Home-text h2 {
         font-size: 20px;
@@ -574,6 +589,13 @@ form input, form textarea {
     .education-content .year {
         font-size: 1.2rem;
     }
+    .contact-left h1, p{
+        left: 90px;
+    }
+
+    .project{
+        right: 90px;
+    }
     .project:hover .layer {
         height: 80%;
         width: 80%;
@@ -594,6 +616,9 @@ form input, form textarea {
     }
     .contact-left p i {
         font-size: 20px;
+    }
+    .contact-left{
+        left: 90px
     }
     .Socials a {
         font-size: 25px;
