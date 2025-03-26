@@ -41,13 +41,14 @@ Other Tools used for development: GitHub, VS Code
 ## 📂 Project Structure
  
 portfolio/
-├── index.html  # one page portfolio with different sections
 
-├── style.css   # styling of Website
+├─ index.html  # one page portfolio with different sections
 
-├── mnelisi.js  # JavaScript for interactivity
+├─ style.css   # styling of Website
 
-└── README.md   # Documentantion of project
+├─ mnelisi.js  # JavaScript for interactivity
+
+└─ README.md   # Documentantion of project
  
  
 ## 🎯 Future Enhancements
