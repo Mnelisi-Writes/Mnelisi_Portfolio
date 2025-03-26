@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio! This website highlights my projects, skills, experience, and background in Information Technology. It's a professional platform where potential employers, clients, and collaborators can explore my work and get in touch with me.
 
-# 🚀 Features:
+## 🚀 Features:
 
 About Me: A brief introduction to who I am and my career goals.
 
