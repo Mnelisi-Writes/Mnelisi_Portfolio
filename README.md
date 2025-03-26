@@ -1,8 +1,8 @@
-# Mnelisi_Portfolio
+# MNELISI SPHAKAMISO MPONTSHANE - Portfolio Website
 
 Welcome to my personal portfolio! This website highlights my projects, skills, experience, and background in Information Technology. It's a professional platform where potential employers, clients, and collaborators can explore my work and get in touch with me.
 
-#🚀 Features:
+# 🚀 Features:
 
 About Me: A brief introduction to who I am and my career goals.
 
@@ -15,6 +15,8 @@ Experience: An overview of my professional history, work experience, and certifi
 AI Bot: An AI-driven chatbot to answer any questions about me.
 
 Contact: Simple ways to reach out for collaboration or inquiries.
+
+Interactive CV: Downloadable CV pdf
 
 ![Portfolio Screenshot](portfolio_home.png)
 
