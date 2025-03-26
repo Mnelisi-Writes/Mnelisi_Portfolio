@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio! This website highlights my projects, skills, experience, and background in Information Technology. It's a professional platform where potential employers, clients, and collaborators can explore my work and get in touch with me.
 
-##🚀 Features:
+#🚀 Features:
 
 About Me: A brief introduction to who I am and my career goals.
 
@@ -18,13 +18,13 @@ Contact: Simple ways to reach out for collaboration or inquiries.
 
 ![Portfolio Screenshot}{portfolio_home.png}
 
-##👨‍💻 About Me
+#👨‍💻 About Me
  
 I'm Mnelisi Mpontshane! I'm passionate about technology, especially software development and cloud engineering, with a strong focus on Google Cloud.
 I love staying up to date with the latest tech trends and exploring innovative solutions that make an impact. Whether it’s building scalable applications or diving into the cloud, I’m always excited to learn, create, and grow.
  
  
-##🛠 Technologies Used
+#🛠 Technologies Used
  
 Frontend
 HTML5: Semantic markup for structure and accessibility
@@ -36,7 +36,7 @@ JavaScript: For interactive elements and dynamic content
  
 Other Tools used for development: GitHub, VS Code
  
-##📂 Project Structure
+#📂 Project Structure
  
 portfolio/
 ├── index.html
@@ -46,7 +46,7 @@ portfolio/
 └── README.md
  
  
-##🎯 Future Enhancements
+#🎯 Future Enhancements
  
 Add a blog section to share insights and tutorials , database and ai enhancments.
  
@@ -54,13 +54,16 @@ Implement animations and transitions for a more interactive experience.
  
 Integrate a contact form with backend email functionality.
  
-##📬 Contact
+#📬 Contact
  
 Feel free to connect with me:
  
 📧 Email: mpontshanemnelisi2002@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/mnelisi21
+
 🔗 Github: https://github.com/Mnelisi-Writes
 
-##Link to Deployed Website
+#Link to Deployed Website
+
 🌐 Portfolio: https://mnelisi-writes.github.io/Mnelisi_Portfolio/
