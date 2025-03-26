@@ -16,7 +16,7 @@ AI Bot: An AI-driven chatbot to answer any questions about me.
 
 Contact: Simple ways to reach out for collaboration or inquiries.
 
-![Portfolio Screenshot}(portfolio_home.png)
+![Portfolio Screenshot](portfolio_home.png)
 
 ## 👨‍💻 About Me
  
